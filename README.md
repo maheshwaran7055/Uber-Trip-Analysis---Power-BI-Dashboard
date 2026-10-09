@@ -1,10 +1,10 @@
-# 🚖 Uber Trip Analysis | Power BI Dashboard
+# 🚗 Uber Trip Analysis | Power BI Dashboard
 
 An interactive, three-page Power BI dashboard that analyzes Uber trips in New York for **June 2024**. It helps answer when demand peaks, where trips start and end, which vehicle types and payment methods are most used, and how trip distance and booking value vary.
 
 ---
 
-## 📌 Project Objective
+## 🎯 Project Objective
 To turn raw trip-level data (103.7K bookings) into a clear, interactive report that supports decisions on demand patterns, vehicle mix, payment preferences and location hotspots.
 
 ---
@@ -66,13 +66,13 @@ The location table has two relationships to the fact table: an active one on pic
 
 ## 🖼️ Screenshots
 
-### Overview
+### 🏠 Overview
 ![Overview](Overview-Report.png)
 
-### Time Analysis
+### ⏰ Time Analysis
 ![Time Analysis](Time-Analysis.png)
 
-### Details
+### 📋 Details
 ![Details](Details-Report.png)
 
 ---
