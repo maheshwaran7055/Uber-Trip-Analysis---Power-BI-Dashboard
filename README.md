@@ -1,4 +1,4 @@
-# Uber-Trip-Analysis-Power-BI-Dashboard
+# Uber Trip Analysis Power BI Dashboard
 
 An interactive Power BI dashboard analyzing Uber trips in June 2024.
 
